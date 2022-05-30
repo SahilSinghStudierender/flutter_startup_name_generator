@@ -1,10 +1,16 @@
-# hello_world
+# Startup Name Generator
 
-A new Flutter project.
+This is one of my first Flutter Application, helping me to learn the basics of Flutter by following the Guide [Part one](https://docs.flutter.dev/get-started/codelab) and [Part two](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0).
+
+## Use Case of this Application
+
+In this App, a infinite List View is created, displaying random generated Names. It is possible to mark them as "favourites" and all of them will be displayed within an individual page.
+
+Homepage                  |  Saved Suggestions Page
+:------------------------:|:-----------------------------------:
+![](/images/homepage.png) |  ![](/images/saved_suggestions.png)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
